@@ -32,7 +32,7 @@ export const lightColors: Colors = {
   borderColor: "#E9EAEB",
   gradients: {
     bubblegum:
-      "#52868a",
+      "#353547",
     cardHeader: "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
     blue: "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
     violet: "linear-gradient(180deg, #E2C9FB 0%, #CDB8FA 100%)",
@@ -54,17 +54,18 @@ export const darkColors: Colors = {
   input: "#190602",
   inputSecondary: "#52868a",
   primaryDark: "#97161e",
-  tertiary: "#52868a",
+  tertiary: "#353547",
   text: "#ffeeda",
   textDisabled: "#666171",
   textSubtle: "#52868a",
   borderColor: "#524B63",
   gradients: {
     bubblegum:
-      "#52868a",
+      "#353547",
     cardHeader: "linear-gradient(166.77deg, #070707 0%, #3A3045 100%)",
     blue: "linear-gradient(180deg, #070707 0%, #19778C 100%)",
     violet: "linear-gradient(180deg, #070707 0%, #6D4DB2 100%)",
     violetAlt: "linear-gradient(180deg, #070707 0%, #52868a 100%)",
   },
 };
+
