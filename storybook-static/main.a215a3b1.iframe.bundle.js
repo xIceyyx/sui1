@@ -32043,9 +32043,9 @@
               children: [
                 Object(jsx_runtime.jsx)(LinkExternal.a, {
                   small: !0,
-                  href: "https://shibariumscan.io/address/" + account,
+                  href: "https://ScrollScan.io/address/" + account,
                   mr: "16px",
-                  children: "View on ShibariumScan",
+                  children: "View on ScrollScan",
                 }),
                 Object(jsx_runtime.jsx)(WalletModal_CopyToClipboard, {
                   toCopy: account,

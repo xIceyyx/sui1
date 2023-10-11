@@ -8850,10 +8850,10 @@ var AccountModal = function (_a) {
         LinkExternal,
         {
           small: true,
-          href: "https://shibariumscan.io/address/" + account,
+          href: "https://ScrollScan.io/address/" + account,
           mr: "16px",
         },
-        "View on ShibariumScan"
+        "View on ScrollScan"
       ),
       React.createElement(CopyToClipboard, { toCopy: account }, "Copy Address")
     ),
