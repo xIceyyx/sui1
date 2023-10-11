@@ -6252,7 +6252,7 @@ var shadows = {
   active: "0px 0px 0px 1px #0098A1, 0px 0px 4px 8px rgba(31, 199, 212, 0.4)",
   success: "0px 0px 0px 1px #31D0AA, 0px 0px 0px 4px rgba(49, 208, 170, 0.2)",
   warning: "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)",
-  focus: "0px 0px 0px 1px #52868a, 0px 0px 0px 4px #52868a",
+  focus: "0px 0px 0px 1px #ffeeda, 0px 0px 0px 4px #ffeeda",
   inset: "inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)",
 };
 var spacing = [0, 4, 8, 16, 24, 32, 48, 64];
@@ -9461,10 +9461,10 @@ var templateObject_1;
 
 var baseColors = {
   failure: "#ED4B9E",
-  primary: "#52868a",
+  primary: "#ffeeda",
   primaryBright: "#31b3f7",
   primaryDark: "#024179",
-  secondary: "#52868a",
+  secondary: "#ffeeda",
   success: "#31D0AA",
   warning: "#FFB237",
 };
@@ -9481,13 +9481,13 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   input: "#eeeaf4",
   inputSecondary: "#d7caec",
   tertiary: "#EFF4F5",
-  text: "#52868a",
+  text: "#ffeeda",
   textDisabled: "#BDC2C4",
-  textSubtle: "#52868a",
+  textSubtle: "#ffeeda",
   borderColor: "#E9EAEB",
   gradients: {
     bubblegum:
-      "#52868a",
+      "#ffeeda",
     cardHeader: "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
     blue: "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
     violet: "linear-gradient(180deg, #E2C9FB 0%, #CDB8FA 100%)",
@@ -9495,28 +9495,28 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   },
 });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
-  secondary: "#52868a",
-  background: "#52868a",
+  secondary: "#ffeeda",
+  background: "#ffeeda",
   backgroundDisabled: "#3c3742",
   backgroundAlt: "#190602",
   contrast: "#FFFFFF",
   dropdown: "#1E1D20",
   invertedContrast: "#191326",
   input: "#190602",
-  inputSecondary: "#52868a",
+  inputSecondary: "#ffeeda",
   primaryDark: "#0098A1",
-  tertiary: "#52868a",
+  tertiary: "#ffeeda",
   text: "#ffeeda",
   textDisabled: "#666171",
-  textSubtle: "#52868a",
+  textSubtle: "#ffeeda",
   borderColor: "#524B63",
   gradients: {
     bubblegum:
-      "#52868a",
+      "#ffeeda",
     cardHeader: "linear-gradient(166.77deg, #3B4155 0%, #3A3045 100%)",
     blue: "linear-gradient(180deg, #00707F 0%, #19778C 100%)",
     violet: "linear-gradient(180deg, #6C4999 0%, #6D4DB2 100%)",
-    violetAlt: "linear-gradient(180deg, #434575 0%, #52868a 100%)",
+    violetAlt: "linear-gradient(180deg, #434575 0%, #ffeeda 100%)",
   },
 });
 
