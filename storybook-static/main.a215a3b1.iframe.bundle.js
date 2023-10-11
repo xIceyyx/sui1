@@ -25261,12 +25261,12 @@
           {
             label: "Discord",
             icon: "TelegramIcon",
-            items: [{ label: "English", href: "https://t.me/WoofFinanceGroup" }],
+            items: [{ label: "English", href: "https://t.me/Finance1869" }],
           },
           {
             label: "Twitter",
             icon: "TwitterIcon",
-            href: "https://twitter.com/wooffinance",
+            href: "https://twitter.com",
           },
         ],
         rainbowAnimation = Object(styled_components_browser_esm.keyframes)([

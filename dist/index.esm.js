@@ -7620,14 +7620,14 @@ var socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/WoofFinanceGroup",
+        href: "https://t.me/Finance1869",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/wooffinance",
+    href: "https://twitter.com",
   },
 ];
 var MENU_HEIGHT = 64;
