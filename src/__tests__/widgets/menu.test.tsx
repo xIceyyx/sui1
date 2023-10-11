@@ -390,7 +390,7 @@ it("renders correctly", () => {
       background-clip: text;
       -webkit-animation: fKQuCC 3s ease-in-out infinite;
       animation: fKQuCC 3s ease-in-out infinite;
-      background: #353547;
+      background: #52868a;
       background-size: 400% 100%;
     }
 
@@ -440,7 +440,7 @@ it("renders correctly", () => {
       background-clip: text;
       -webkit-animation: fKQuCC 3s ease-in-out infinite;
       animation: fKQuCC 3s ease-in-out infinite;
-      background: #353547;
+      background: #52868a;
       background-size: 400% 100%;
     }
 
