@@ -60,8 +60,8 @@
           )),
         baseColors = {
           failure: "#ED4B9E",
-          primary: "#ff9126",
-          primaryBright: "#ff9126",
+          primary: "#52868a",
+          primaryBright: "#52868a",
           primaryDark: "#351617",
           secondary: "#97161e",
           success: "#31D0AA",
@@ -78,9 +78,9 @@
           input: "#eeeaf4",
           inputSecondary: "#d7caec",
           tertiary: "#EFF4F5",
-          text: "#ff9126",
+          text: "#52868a",
           textDisabled: "#BDC2C4",
-          textSubtle: "#ff9126",
+          textSubtle: "#52868a",
           borderColor: "#E9EAEB",
           gradients: {
             bubblegum:
@@ -100,12 +100,12 @@
           dropdown: "#1E1D20",
           invertedContrast: "#191326",
           input: "#190602",
-          inputSecondary: "#ff9126",
+          inputSecondary: "#52868a",
           primaryDark: "#97161e",
           tertiary: "#353547",
           text: "#ffeeda",
           textDisabled: "#666171",
-          textSubtle: "#ff9126",
+          textSubtle: "#52868a",
           borderColor: "#524B63",
           gradients: {
             bubblegum:
@@ -113,7 +113,7 @@
             cardHeader: "linear-gradient(166.77deg, #070707 0%, #3A3045 100%)",
             blue: "linear-gradient(180deg, #070707 0%, #19778C 100%)",
             violet: "linear-gradient(180deg, #070707 0%, #6D4DB2 100%)",
-            violetAlt: "linear-gradient(180deg, #070707 0%, #ff9126 100%)",
+            violetAlt: "linear-gradient(180deg, #070707 0%, #52868a 100%)",
           },
         }),
         light = { background: lightColors.backgroundAlt },
@@ -24929,7 +24929,7 @@
           warning:
             "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)",
           focus:
-            "0px 0px 0px 1px #ff9126, 0px 0px 0px 4px #ff9126",
+            "0px 0px 0px 1px #52868a, 0px 0px 0px 4px #52868a",
           inset: "inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)",
         };
       __webpack_exports__.b = {
