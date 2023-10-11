@@ -8000,7 +8000,7 @@ var CakePrice = function (_a) {
     ? React.createElement(
         PriceLink,
         {
-          href: "https://dexscreener.com/shibarium/0xbedd8e7680f3a5bcf2493b06fb20f4a1fcd3b24d",
+          href: "https://dexscreener.com",
           target: "_blank",
         },
         React.createElement(Icon$V, { width: "24px", mr: "8px" }),
